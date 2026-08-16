@@ -65,25 +65,12 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shhaya3&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shhaya3&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shhaya3&layout=compact&theme=radical&hide_border=true" width="60%" />
-</p>
-
----
-
 ### 🏆 Featured Projects
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| **[Music Player Web Application](https://github.com/shhaya3)** | Scalable REST API serving song metadata, playlists & favorites, with JWT auth, audio streaming via Range requests, and an automated Mutagen-based library scanner behind a Spotify-inspired UI | Flask, SQLAlchemy, PostgreSQL, JWT, JS |
-| **[Linux Server Hardening & Security Automation](https://github.com/shhaya3)** | Automated Bash workflow turning a fresh cloud VPS into a production-ready server in under 10 minutes — SSH hardening, UFW firewall rules, Fail2Ban intrusion prevention, and least-privilege sudo setup | Bash, Linux, SSH, UFW, Fail2Ban |
+| **[Music Player Web Application](https://github.com/shhaya3/music-player)** | Scalable REST API serving song metadata, playlists & favorites, with JWT auth, audio streaming via Range requests, and an automated Mutagen-based library scanner behind a Spotify-inspired UI | Flask, SQLAlchemy, PostgreSQL, JWT, JS |
+| **[Linux Server Hardening & Security Automation](https://github.com/shhaya3/Linux-Server-Automation-Script)** | Automated Bash workflow turning a fresh cloud VPS into a production-ready server in under 10 minutes — SSH hardening, UFW firewall rules, Fail2Ban intrusion prevention, and least-privilege sudo setup | Bash, Linux, SSH, UFW, Fail2Ban |
 
 ---
 
